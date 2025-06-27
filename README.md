@@ -5,7 +5,6 @@ Eğitim, bölüm ve üniversite analizleri gibi veri bilimi projelerinde kullan�
 🚀 Özellikler
 🎯 Scrapy ile YÖK Atlas API'den bölüm/veri çekimi
 🗃️ Verilerin MySQL veritabanına aktarılması
-📁 Excel (.xlsx) dosyalarına veri kaydı
 ✅ Kodlar modüler yapıdadır, kolayca genişletilebilir
 📊 Veri analizleri için uygun formatta çıktı
 
